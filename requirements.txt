@@ -1,0 +1,6 @@
+newsapi-python
+google-generativeai
+gspread
+oauth2client
+twilio
+pyyaml
