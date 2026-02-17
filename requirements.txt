@@ -1,0 +1,7 @@
+google-cloud-bigquery
+feedparser
+httpx
+beautifulsoup4
+python-dateutil
+pandas
+db-dtypes
